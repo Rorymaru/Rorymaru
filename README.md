@@ -1,1 +1,1 @@
-wip
+<img alt="Story pin image" class="img_F" draggable="true" fetchpriority="high" elementtiming="StoryPinImageBlock-MainPinImage" src="https://i.pinimg.com/736x/17/3d/c4/173dc4b3f2b791ab8cc095f581a20ff1.jpg">
